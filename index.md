@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: HI!
 ---
 
 #Hello, world!
